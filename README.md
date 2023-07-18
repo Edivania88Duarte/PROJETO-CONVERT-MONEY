@@ -13,6 +13,9 @@
 <br>
 <b>⚠️OBS:</b> Como o projeto ainda está em desenvolvimento, logo mais, novas moedas serão acrescentadas.
 </p>
+<br>
+
+![Foto Convert-Money](https://github.com/Edivania88Duarte/PROJETO-CONVERT-MONEY/assets/120994730/99960cb5-ccba-462e-8fc9-afe4a3ab2d57)
 
 <h4>👩🏼‍💻Tecnologias:</h4>
 
