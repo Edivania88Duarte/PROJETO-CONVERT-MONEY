@@ -15,7 +15,9 @@
 </p>
 <br>
 
-![Foto Convert-Money](https://github.com/Edivania88Duarte/PROJETO-CONVERT-MONEY/assets/120994730/99960cb5-ccba-462e-8fc9-afe4a3ab2d57)
+
+https://github.com/Edivania88Duarte/PROJETO-CONVERT-MONEY/assets/120994730/8973b444-a0f3-4b11-8b2c-668038046dde
+
 
 <h4>👩🏼‍💻Tecnologias:</h4>
 
